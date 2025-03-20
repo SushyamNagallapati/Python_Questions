@@ -1,5 +1,6 @@
 user = input("Enter a sentence: ").lower()
 
+
 letters = 0
 digits = 0
 special_characters = 0
