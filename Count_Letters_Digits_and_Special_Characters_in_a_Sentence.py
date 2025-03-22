@@ -1,3 +1,5 @@
+
+
 user = input("Enter a sentence: ").lower()
 
 
